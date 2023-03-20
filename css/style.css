@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+    color: blue;
+}
+
+
+.contenedor {
+    padding: 5rem;
+}
+
+
+.boton {
+    text-align: center;
+    border-color: black;
+    color: white;
+    padding: 5em ;
+    cursor: pointer;
+}
+
+
+.titulo {
+    text-align: center;
+    
+ }
+
+
+ .parrafo {
+    width: 50%;
+    border:  1px solid gray;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+ }
+
+ .perrito {
+    margin: 4rem solid center;
+
+ }
