@@ -9,3 +9,6 @@
 
 ##  Acerca el programador
 Autor: Nestor PQ
+Mi carrera es: **Ingenieria de software con IA**
+Puedes escribir a mi correo: *1208003@senati.pe*
+
